@@ -135,9 +135,6 @@ Guided by [@theoyibooke](https://www.youtube.com/@theoyibooke) on YouTube, this 
 ##  Author
 
 Built by **AbdulAzeez Rofiah**
-- GitHub: [@yourusername](https://rofiahportfolio.mystrikingly.com/)
-- LinkedIn: [View Your LinkedIn](https://www.linkedin.com/in/rofiah-abdul-azeez/)
-
 ---
 
 ## The Job Application Portal Link
