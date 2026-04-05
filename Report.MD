@@ -48,11 +48,11 @@ For the frontend, I built an **Instant Cloud Flow** in Power Automate using the 
 
 ## ⚙️ Part 2 — Backend Automation Flow
 
-I built the full backend as a single Power Automate flow. I started by creating an **Initialize Variable** action to auto-generate a unique Submission ID for every entry using the expression `concat('APP-', formatDateTime(utcNow(), 'yyyyMMdd-HHmmss'))`. I then added a **Compose** action to structure and clean all form fields — using `trim()` to remove whitespace, `toUpper()` to normalise the position field, and `utcNow()` to timestamp each submission.
+I built the full backend as a single Power Automate flow. I started by creating an **Initialize Variable** action to auto-generate a unique Submission ID for every entry using the expression `concat('APP-', formatDateTime(utcNow(), 'yyyyMMdd-HHmmss'))`. I then added a **Compose** action to structure and clean all form fields, using `trim()` to remove whitespace, `toUpper()` to normalise the position field, and `utcNow()` to timestamp each submission.
 
 From there, the flow writes the structured data to Google Sheets via **Insert Row**, creating a new logged entry for every applicant with a default status of `Pending`. It then creates a named folder for the applicant inside Google Drive under `/Submissions/`, uploads their CV directly into that folder, and saves a backup copy of both the CV and a plain-text data summary to OneDrive.
 
-Once storage is handled, the flow sends two emails — a confirmation to the applicant with their reference ID and position, and an internal notification to the HR team with all applicant details and a direct link to their Google Drive folder. Finally, I added a **Parallel Branch** configured to run only on failure, which logs any error as a JSON file in OneDrive and sends an alert to the admin so no submission is ever silently lost.
+Once storage is handled, the flow sends two emails, a confirmation to the applicant with their reference ID and position, and an internal notification to the HR team with all applicant details and a direct link to their Google Drive folder. Finally, I added a **Parallel Branch** configured to run only on failure, which logs any error as a JSON file in OneDrive and sends an alert to the admin so no submission is ever silently lost.
 
 ![Google Sheets](https://github.com/R887645/Creation-of-Job-Application-Portal-with-Power-Automate/blob/main/powr%20automate%20flow.png?raw=true)
 
