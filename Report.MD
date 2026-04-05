@@ -62,6 +62,8 @@ Once storage is handled, the flow sends two emails, a confirmation to the applic
 
 ![My Image](https://github.com/R887645/Creation-of-Job-Application-Portal-with-Power-Automate/blob/main/Response%20after%20submission.png?raw=true)
 
+(![My Image](https://github.com/R887645/Creation-of-Job-Application-Portal-with-Power-Automate/blob/main/Power%20BI%20Job%20Application%20Analytics.png?raw=true)
+
 
 ## The Job Application Portal Link
 
