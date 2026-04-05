@@ -63,7 +63,7 @@ Once storage is handled, the flow sends two emails — a confirmation to the app
 
 ## The Job Application Portal Link
 
-This project is LIVE [My Project](https://413bc38af3b4e87580d09a649b333f.0d.environment.api.powerplatform.com/powerautomate/automations/direct/workflows/59d6fec6366c4bbaa13dd5b60bf0066a/triggers/manual/paths/invoke?api-version=1&sp=/triggers/manual/run&sv=1.0&sig=_43czEbm8ZFCPqtmFI9S-gVOkwbf0AqSwf2PeNuQWPs).
+[This project is LIVE](https://413bc38af3b4e87580d09a649b333f.0d.environment.api.powerplatform.com/powerautomate/automations/direct/workflows/59d6fec6366c4bbaa13dd5b60bf0066a/triggers/manual/paths/invoke?api-version=1&sp=/triggers/manual/run&sv=1.0&sig=_43czEbm8ZFCPqtmFI9S-gVOkwbf0AqSwf2PeNuQWPs).
 
 **[View a SnapShot Video of the project Here](https://drive.google.com/file/d/1GbUsrwvxDifRlnDifpEId16taGyRVNkd/view?usp=sharing)**
 
@@ -140,6 +140,6 @@ Built by **AbdulAzeez Rofiah**
 
 ## The Job Application Portal Link
 
-This project is LIVE [My Project](https://413bc38af3b4e87580d09a649b333f.0d.environment.api.powerplatform.com/powerautomate/automations/direct/workflows/59d6fec6366c4bbaa13dd5b60bf0066a/triggers/manual/paths/invoke?api-version=1&sp=/triggers/manual/run&sv=1.0&sig=_43czEbm8ZFCPqtmFI9S-gVOkwbf0AqSwf2PeNuQWPs).
+[This project is LIVE](https://413bc38af3b4e87580d09a649b333f.0d.environment.api.powerplatform.com/powerautomate/automations/direct/workflows/59d6fec6366c4bbaa13dd5b60bf0066a/triggers/manual/paths/invoke?api-version=1&sp=/triggers/manual/run&sv=1.0&sig=_43czEbm8ZFCPqtmFI9S-gVOkwbf0AqSwf2PeNuQWPs).
 
 **[View a SnapShot Video of the project Here](https://drive.google.com/file/d/1GbUsrwvxDifRlnDifpEId16taGyRVNkd/view?usp=sharing)**
