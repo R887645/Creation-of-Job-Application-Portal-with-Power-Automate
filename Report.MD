@@ -2,7 +2,7 @@
 ---
 # Job Application Portal — Power Automate + Google Drive
 
-A low-code job application portal built entirely with Microsoft Power Automate. Guided by [@theoyibooke](https://www.youtube.com/@theoyibooke) on YouTube, I replicated a fully functional hiring portal, no server, no database, no code required. The frontend is a Power Automate instant flow form, which collects and stores all applicant data across Google Drive, Google Sheets, and OneDrive.
+A low-code job application portal built entirely with Microsoft Power Automate. Guided by theoyibooke tutorial on YouTube, I replicated a fully functional hiring portal, no server, no database, no code required. The frontend is a Power Automate instant flow form, which collects and stores all applicant data across Google Drive, Google Sheets, and OneDrive.
 
 ---
 
